@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=66CCFF&center=true&vCenter=true&width=440&lines=Student;Python+Developer;Open+to+Internship+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=66CCFF&center=true&vCenter=true&width=440&lines=Student;Software+Developer;Open+to+Internship+Opportunities" alt="Typing SVG" />
 </h3>
 
 <p align="center">
