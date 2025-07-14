@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=66CCFF&center=true&vCenter=true&width=440&lines=Student+%7C+Software+Developer;Pursuing+B.Sc.+(I.T.);Open+to+Internship+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=66CCFF&center=true&vCenter=true&width=440&lines=Student;Python+Developer;Open+to+Internship+Opportunities" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -18,7 +18,7 @@
 - 🎓 Pursuing **B.Sc. in Information Technology**
 - 💻 Exploring **Web Development** and **Python + Flask**
 - 🚀 Looking for **internship opportunities**
-- 🧠 Currently improving skills in **MySQL, Flask, and frontend development**
+- 🧠 Currently improving skills in **MySQL, Flask**
 - 🌐 Passionate about building smart, user-friendly apps
 - 🧩 Fun fact: I love working on creative projects with awesome teams
 
@@ -57,5 +57,14 @@
 <p align="center">
   <a href="mailto:harshalpatil2809@gmail.com">
     <img src="https://img.shields.io/badge/email-16161A?style=for-the-badge&logo=gmail&logoColor=66CCFF" />
+  </a>
+  <a href="https://www.instagram.com/_harshallpatil_/?hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-16161A?style=for-the-badge&logo=instagram&logoColor=66CCFF" />
+  </a>
+  <a href="https://x.com/Patil_Harshal_5" target="_blank">
+    <img src="https://img.shields.io/badge/x-16161A?style=for-the-badge&logo=twitter&logoColor=66CCFF" />
+  </a>
+  <a href="https://www.linkedin.com/in/harshal-patil-56a0b2293/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-16161A?style=for-the-badge&logo=linkedin&logoColor=66CCFF" />
   </a>
 </p>
