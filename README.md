@@ -47,13 +47,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshalpatil2809&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&row=2&column=4" />
-</p>
-
----
 
 ## 🔥 Contribution Graph
 
