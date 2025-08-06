@@ -1,14 +1,12 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-  Hey there! I'm <span style="color:#00FFFF">Harshal Patil</span> 👋
+  Hey there! I'm Harshal Patil 👋
 </h1>
 
-<h3 align="center">
-  💻 Aspiring Software Developer | Python + Flask Enthusiast | Open to Internship Opportunities
-</h3>
+<h3 align="center">💻 Aspiring Fullstack Developer | Python + Flask Enthusiast | Open to Internship Opportunities</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer+in+Training+%F0%9F%9A%80;Flask+Backend+Explorer+%F0%9F%9B%A0%EF%B8%8F;Creative+Thinker+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Open+to+Internships" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer+in+Training+🚀;Flask+Backend+Explorer+🛠️;Creative+Thinker+👨‍💻;Open+to+Internships" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -20,13 +18,12 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Pursuing **B.Sc. in Information Technology**
-- 💻 Learning **Web Development**, specializing in **Python + Flask**
+- 💻 Learning **Web Development**, focusing on **Python + Flask**
 - 🚀 Looking for exciting **Internship Opportunities**
-- 🌱 Currently learning **MySQL**, **Flask**, and sharpening **problem-solving skills**
-- 💬 Ask me about **Flask, Python, MySQL, HTML, CSS, JavaScript**
-- ⚡ Fun fact: *I love working on creative and collaborative tech projects*
-- 🌐 Portfolio: *(coming soon — let me know if you'd like help building it!)*
-- 📫 Reach me: **harshalpatil2809@gmail.com**
+- 🌱 Improving skills in **MySQL**, **Flask**, and **problem-solving**
+- 💬 Ask me about: `Flask`, `Python`, `MySQL`, `HTML`, `CSS`, `JavaScript`
+- ⚡ Fun fact: I love working on creative and collaborative projects
+- 📫 Reach me at: **harshalpatil2809@gmail.com**
 
 ---
 
@@ -42,11 +39,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshalpatil2809&show_icons=true&theme=tokyonight&icon_color=00ffff&title_color=00ffff&text_color=cccccc&bg_color=16161A" height="200" />
-  &nbsp;&nbsp;
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=harshalpatil2809&theme=tokyonight&hide_border=false&background=16161A&currStreakLabel=00ffff&sideNums=00ffff&sideLabels=cccccc&dates=cccccc" height="200" />
-</p>
-
-<p align="center">
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalpatil2809&layout=compact&theme=tokyonight&bg_color=16161A&title_color=00ffff&text_color=cccccc" />
 </p>
 
