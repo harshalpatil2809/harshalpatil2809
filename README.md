@@ -18,10 +18,9 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Pursuing **B.Sc. in Information Technology**
-- 💻 Learning **Web Development**, focusing on **Python + Flask**
+- 💻 Learning **Web Development**, focusing on **Python**
 - 🚀 Looking for exciting **Internship Opportunities**
-- 🌱 Improving skills in **MySQL**, **Flask**, and **problem-solving**
-- 💬 Ask me about: `Flask`, `Python`, `MySQL`, `HTML`, `CSS`, `JavaScript`
+- 🌱 Improving skills
 - ⚡ Fun fact: I love working on creative and collaborative projects
 - 📫 Reach me at: **harshalpatil2809@gmail.com**
 
