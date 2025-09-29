@@ -4,9 +4,9 @@
 </h1>
 
 <h3 align="center">✨ Aspiring Software Developer | Passionate About Coding & Problem Solving</h3>
-
+ 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=Web+Developer+in+Training+🚀;Flask+Backend+Explorer+🛠️;Creative+Thinker+👨‍💻;Open+to+Internships" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;Passionate+About+Coding+%26+Problem+Solving" alt="Typing animation"/>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,flask,mysql,git,github,vscode,figma,vercel,netlify,render" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,flask,mysql,git,github,vscode,figma,vercel,netlify,tailwind,bootstrap" />
 </p>
 
 ---
