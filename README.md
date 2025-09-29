@@ -3,7 +3,7 @@
   Hey there! I'm Harshal Patil 👋
 </h1>
 
-<h3 align="center">💻 Aspiring Software Developer | Python + Flask Enthusiast | Open to Internship Opportunities</h3>
+<h3 align="center">✨ Aspiring Software Developer | Passionate About Coding & Problem Solving</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=Web+Developer+in+Training+🚀;Flask+Backend+Explorer+🛠️;Creative+Thinker+👨‍💻;Open+to+Internships" alt="Typing animation"/>
