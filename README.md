@@ -13,7 +13,7 @@ I'm a passionate full-stack developer building modern web applications with clea
 - **Data Structures & Algorithms** - Mastering the fundamentals
 
 ### 💬 Ask Me About
-- **Flask** - Python web framework
+- **Django** - Python web framework
 - **Tailwind CSS** - Utility-first CSS
 - **MySQL** - Database design
 
