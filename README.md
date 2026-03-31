@@ -10,6 +10,7 @@ I'm a passionate full-stack developer building modern web applications with clea
 
 ### 🌱 Currently Learning
 - **React** - Frontend library for interactive UIs
+- **Next.js** - Full-stack React framework ⚡
 - **Data Structures & Algorithms** - Mastering the fundamentals
 
 ### 💬 Ask Me About
@@ -46,6 +47,7 @@ I'm a passionate full-stack developer building modern web applications with clea
 
 ### Frontend & Backend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -66,6 +68,7 @@ I'm a passionate full-stack developer building modern web applications with clea
 ---
 
 </div>
+
 # 📊 GitHub Stats
 
 <div align="center">
