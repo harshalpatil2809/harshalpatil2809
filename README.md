@@ -19,8 +19,8 @@ I'm a passionate full-stack developer building modern web applications with clea
 - **MySQL** - Database design
 
 ### 🔗 Connect With Me
-- 🌐 Portfolio: [harshalpatil.vercel.app](https://harshalpatil.vercel.app/)
-- 📧 Email: [harshalpatil@gmail.com](mailto:harshalpatil@gmail.com)
+- 🌐 Portfolio: [harshalpatil.vercel.app](https://harshalpatil.vercel.app)
+- 📧 Email: [harshalpatil2809@gmail.com](mailto:harshalpatil2809@gmail.com)
 
 <div align="center">
 
