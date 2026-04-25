@@ -76,7 +76,7 @@ I'm a passionate full-stack developer building modern web applications with clea
 <br>
 <div align="center">
 <!-- Most used languages -->
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshNandigamwar&layout=compact&theme=tokyonight" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalpatil2809&layout=compact&theme=tokyonight" />
 <br>
 <!-- GitHub streak stats -->
 <img src="https://streak-stats.demolab.com/?user=harshalpatil2809&theme=dark&hide_border=false" width="450" />
