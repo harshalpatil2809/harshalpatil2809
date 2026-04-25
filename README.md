@@ -79,9 +79,9 @@ I'm a passionate full-stack developer building modern web applications with clea
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshNandigamwar&layout=compact&theme=tokyonight" />
 <br>
 <!-- GitHub streak stats -->
-<img src="https://streak-stats.demolab.com/?user=HarshNandigamwar&theme=dark&hide_border=false" width="450" />
+<img src="https://streak-stats.demolab.com/?user=harshalpatil2809&theme=dark&hide_border=false" width="450" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=HarshNandigamwar&show_icons=true&theme=tokyonight" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=harshalpatil2809&show_icons=true&theme=tokyonight" height="200"/>
 <br>
 </div>
 
