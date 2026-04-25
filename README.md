@@ -71,15 +71,21 @@ I'm a passionate full-stack developer building modern web applications with clea
 
 </div>
 
-# 📊 GitHub Stats
+### ⚡ My GitHub Performance
 
+<br>
 <div align="center">
+<!-- Most used languages -->
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshNandigamwar&layout=compact&theme=tokyonight" />
+<br>
+<!-- GitHub streak stats -->
+<img src="https://streak-stats.demolab.com/?user=HarshNandigamwar&theme=dark&hide_border=false" width="450" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=HarshNandigamwar&show_icons=true&theme=tokyonight" height="200"/>
+<br>
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshalpatil2809&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=harshalpatil2809&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshalpatil2809&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ---
 
