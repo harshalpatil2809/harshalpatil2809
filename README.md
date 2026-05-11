@@ -2,7 +2,7 @@
 
 # 💫 About Me
 
-I'm a passionate full-stack developer building modern web applications with clean code and great design.
+I'm a passionate Software developer building modern web applications with clean code and great design.
 
 </div>
 
